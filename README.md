@@ -1,5 +1,5 @@
 # SI 330 Final Project
-<p>Final Project for SI 330, Data Manipulation, at the University of Michigan</p>
+<p>Final Project for SI 330, Data Manipulation, at the University of Michigan.</p>
 <p>By Haley Johnson</p>
 <h2>Objective</h2>
     <p>A tweet I often think back to reads “Americans only love their college experience because it’s the only time in their lives they live in a walkable community.” Americans frequently complain about long commutes and suburban sprawl, but is walkability actually associated with happiness? Likewise, are people happier when they live in communities with more public transportation? This project aims to investigate how transit impacts quality of life across the country. 
