@@ -9,6 +9,10 @@
         <li><a href = "https://wallethub.com/edu/happiest-places-to-live/32619">Wallet Hubs List of 2022's Happiest Cities in America</a></li>
         <li><a href = "https://catalog.data.gov/dataset/walkability-index">EPA Smart Locations Database</a></li>
         <ul>
-            <li><a href= "https://www.epa.gov/smartgrowth/smart-location-database-technical-documentation-and-user-guide">User guide</a></li>
+            <li><a href= "https://www.epa.gov/smartgrowth/smart-location-database-technical-documentation-and-user-guide">User 
+                guide</a>
+            </li>
+            <li><a href = "https://www.fgdl.org/metadata/fgdl_html/epa_sld_jul13.htm">Help Interpretting Column Names / Codes</a>
+            </li>
         </ul>
     </ul>
